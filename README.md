@@ -1,4 +1,4 @@
-This code was created as a challenge that I received. 
+This code was created as a result of a challenge that was communicated to me. 
 
 Here is the complete challenge as posted to me:
 
